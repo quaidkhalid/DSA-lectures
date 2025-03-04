@@ -1,7 +1,6 @@
 # DSA-lectures
 This repo contains recording links of my DSA sessions I delivered at iCodeGuru.
 
-### Lec 01
 - lec 1: https://fb.watch/xnuerVbtjZ/
 - lec 2: https://fb.watch/y06awzOdtV/
 - lec 3: https://fb.watch/v8NeeVqIMj/
